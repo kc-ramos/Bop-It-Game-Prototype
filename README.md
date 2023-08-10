@@ -14,4 +14,4 @@ I really enjoyed working on this project. I want to be able to code more complex
 
 Click to watch the demo!
 
-[![Watch the video](https://i.ytimg.com/an_webp/OM3zPDN7OYo/mqdefault_6s.webp?du=3000&sqp=CLi01aYG&rs=AOn4CLBXq0RT0IE2Cq9MsmjcU_1NPlEcAw)]([https://www.youtube.com/watch?v=OM3zPDN7OYo])
+[![Watch the video](https://i.ytimg.com/an_webp/OM3zPDN7OYo/mqdefault_6s.webp?du=3000&sqp=CLi01aYG&rs=AOn4CLBXq0RT0IE2Cq9MsmjcU_1NPlEcAw)](https://www.youtube.com/watch?v=OM3zPDN7OYo)
