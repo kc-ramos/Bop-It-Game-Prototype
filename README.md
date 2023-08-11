@@ -15,5 +15,5 @@ Things I wish we could improve on:
 
 
 ## Watch A Demo of the Gameplay Below!
-[![DEMO VIDEO](https://i.ytimg.com/an_webp/OM3zPDN7OYo/mqdefault_6s.webp?du=3000&sqp=CLi01aYG&rs=AOn4CLBXq0RT0IE2Cq9MsmjcU_1NPlEcAw)](https://www.youtube.com/watch?v=OM3zPDN7OYo)
+[![DEMO VIDEO](https://tinyurl.com/mpjawvvv)](https://www.youtube.com/watch?v=OM3zPDN7OYo)
 
